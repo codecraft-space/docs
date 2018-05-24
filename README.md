@@ -7,13 +7,13 @@ Instalacja
 
 **Windows**
 
-1. Zainstaluj Minecrafta z [tego linka](ttps://minecraft.net/pl-pl/download/)
+1. Zainstaluj Minecrafta z [tego linka](https://minecraft.net/pl-pl/download/)
 2. Zainstaluj następnie [MinecraftForge](https://files.minecraftforge.net/) (wybierz instalator zalecany (*Recommeneded*).
 3. **TODO**
 
 **MacOS**
 
-1. Zainstaluj Minecrafta z [tego linka](ttps://minecraft.net/pl-pl/download/)
+1. Zainstaluj Minecrafta z [tego linka](https://minecraft.net/pl-pl/download/)
 2. Zainstaluj następnie [MinecraftForge](https://files.minecraftforge.net/) (wybierz instalator zalecany (*Recommeneded*).
 3. Podczas instalacji MinecraftForge wybierz folder domyślny instalacji (`Application Support/minecraft`).
 4. Po zainstalowaniu uruchom Minecrafta i wybierz Graj Forge. Kiedy inicjalizacja zostanie zakończona, wyłącz grę.
