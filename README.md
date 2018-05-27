@@ -58,6 +58,7 @@ Uruchamianie skryptów
 3. Uruchom skrypt podczas gry:
    - Uruchom konsolę / terminal klikając `/` na klawiaturze
    - wpisz: `py twoj-skrypt`
+   - **Aby w świecie Minecrafta ciągle panował dzień**, wejdź w konsolę i użyj komendy: `time set day`
 
    
 Edytor kodu

@@ -55,6 +55,7 @@ Running scripts
 3. Run scripts inside the game:
    - Run a console by hitting `/` on the keyboard
    - type: `py name-of-your-script`
+   - **We should play Minecraft only during a day**, so we need to set this in the terminal using: `time set day` command.
 
 
 Code editor
