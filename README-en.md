@@ -9,10 +9,12 @@ Installation
 
 1. Install Minecraft from [this link](https://minecraft.net/pl-pl/download/)
 2. Install [MinecraftForge](https://files.minecraftforge.net/) (download an installer of recommended version).
-3. After the installation you should see a new Forge profile when running Minecraft. 
+3. After the installation you should see a new Forge profile whendc running Minecraft. 
 4. Close the game and install RasberryJamMod.
 5. Download an installer from [here](https://github.com/arpruss/raspberryjammod/releases/download/0.94/RaspberryJamMod-Installer.exe) and start the installation.
-![](img/rasberry-jam-mod-installer.jpg).
+
+	![](img/rasberry-jam-mod-installer.jpg)
+	
 6. After a successful installation now you need to install [Python for Windows](https://www.python.org/downloads/release/python-365/). Remember to check "Add python.exe to Path".
  
 	![](img/python-installer.jpg)
@@ -40,7 +42,6 @@ Installation
 8. Go up to `minecraft` folder and install python-scripts: `wget https://github.com/arpruss/raspberryjammod/releases/download/0.94/python-scripts.zip`
 9. `unzip python-scripts.zip` in `minecraft folder`
 10. All scripts should be placed in `minecraft/mcpipy` folder 
-
 
 
 Running scripts

@@ -12,15 +12,22 @@ Instalacja
 3. Po instalacji Forge i uruchomieniu Minecfrafta powinien sie pokazać nowy profil Forge.
 4. Zamknij teraz grę i przejdź do instalacji RasberryJamMod.
 5. Pobierz instalator [stąd](https://github.com/arpruss/raspberryjammod/releases/download/0.94/RaspberryJamMod-Installer.exe) i rozpocznij instalację.
-![](img/rasberry-jam-mod-installer.jpg).
+
+	![](img/rasberry-jam-mod-installer.jpg)
+	
 6. Następnie zainstaluj [Python dla Windows](https://www.python.org/downloads/release/python-365/). Pamiętaj, aby zaznaczyć "Dodaj python.exe do ścieżki".
-![](img/python-installer.jpg)
+
+	![](img/python-installer.jpg)
+	
 7. Naciśnij skrót `Windows + R` i wpisz `%appdata%\.minecraft`. Przejdziesz dzięki temu do ukrytego folderu `minecraft`. Sprawdź, czy znajduje się tam katalog `mods`. Jeśli tak, wszystko jest ok. Jeśli nie , musisz stworzyć nowy katalog o nazwie `mods`.
-![](img/appdata.jpg)
+
+	![](img/appdata.jpg)
+	
 8. Ściągnij plik `mods.zip` [stąd](https://github.com/arpruss/raspberryjammod/releases/download/0.94/mods.zip) i wypakuj jego zawartość w katalogu `mods`.
 9. Pobierz plik `python-scripts.zip` [stąd](https://github.com/arpruss/raspberryjammod/releases/download/0.94/python-scripts.zip). **Wypakuj go w katalogu `.minecraft`**.
 10. Po wypakowaniu sprawdź czy pojawił się folder `mcpipy`. Do niego będziemy kopiować nasze nowe skrypty. 
-![](img/mods-mcpipy.jpg)
+
+	![](img/mods-mcpipy.jpg)
 
 **MacOS**
 
