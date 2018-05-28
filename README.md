@@ -72,3 +72,4 @@ Będziemy używać **VS Code**, który można pobrać [stąd](https://code.visua
 4. Możesz teraz przejść do kodowania. 
 
 
+
