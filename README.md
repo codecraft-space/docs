@@ -40,7 +40,7 @@
 2. Zainstaluj następnie [MinecraftForge](https://files.minecraftforge.net/) (wybierz instalator zalecany (*Recommeneded*).
 3. Podczas instalacji MinecraftForge wybierz folder domyślny instalacji (`Application Support/minecraft`).
 4. Po zainstalowaniu uruchom Minecrafta i wybierz Graj Forge (profil Forge powinien być stworzony). Kiedy inicjalizacja zostanie zakończona, wyłącz grę.
-5. Idź do katalogu `/minecraft/mods` (`cd ~/Library/"Application Support"/minecraft/mods`)
+5. Używając terminala (iTerm) :) idź do katalogu (`cd ~/Library/"Application Support"/minecraft/mods`)
 6. Pobierz moda dla Pythona używając komendy `wget https://github.com/arpruss/raspberryjammod/releases/download/0.94/mods.zip`. Jeśli nie masz wgeta, możesz je pobrać ręcznie i wrzucić do katalogu `mods`.
 7. Wypakuj moda używając `unzip mods.zip` lub ręcznie.
 8. Idź wyżej, do katalogu `minecraft` i zainstaluj `python-scripts`: `wget https://github.com/arpruss/raspberryjammod/releases/download/0.94/python-scripts.zip` (także możesz to zrobić ręcznie jak w pkt. 6).
