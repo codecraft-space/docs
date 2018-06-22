@@ -25,13 +25,9 @@
 
 	![](img/python-installer.jpg)
 
-1. Naciśnij skrót `Windows + R` i wpisz `%appdata%\.minecraft`. Przejdziesz dzięki temu do ukrytego folderu `minecraft`. Sprawdź, czy znajduje się tam katalog `mods`. Jeśli tak, wszystko jest ok. Jeśli nie , musisz stworzyć nowy katalog o nazwie `mods`.
+1. Naciśnij skrót `Windows + R` i wpisz `%appdata%\.minecraft`. Przejdziesz dzięki temu do ukrytego folderu `minecraft`. Sprawdź, czy znajduje się tam katalog `mods` oraz `mcpipy`.
 
-	![](img/appdata.jpg)
-
-1. Ściągnij plik `mods.zip` [stąd](https://github.com/arpruss/raspberryjammod/releases/download/0.94/mods.zip) i wypakuj jego zawartość w katalogu `mods`.
-1. Pobierz plik `python-scripts.zip` [stąd](https://github.com/arpruss/raspberryjammod/releases/download/0.94/python-scripts.zip). **Wypakuj go w katalogu `.minecraft`**.
-1. Po wypakowaniu sprawdź czy pojawił się folder `mcpipy`. Do niego będziemy kopiować nasze nowe skrypty.
+1. Do folderu `mcpipy` będziemy kopiować nasze nowe skrypty.
 
 	![](img/mods-mcpipy.jpg)
 
