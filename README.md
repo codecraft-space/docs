@@ -15,7 +15,7 @@
 1. Zainstaluj Minecrafta z [tego linka](https://minecraft.net/pl-pl/download/)
 1. Zainstaluj Java JRE z [tego linka](https://java.com/pl/download/)
 1. Zainstaluj następnie [MinecraftForge](https://files.minecraftforge.net/) (wybierz instalator zalecany (*Recommeneded*).
-1. Po instalacji Forge i uruchomieniu Minecfrafta powinien sie pokazać nowy profil Forge.
+1. Uruchom Minecrafta. Po instalacji Forge i uruchomieniu Minecfrafta powinien sie pokazać nowy profil Forge. Uruchom Minecrafta z profile Forge.
 1. Zamknij teraz grę i przejdź do instalacji RasberryJamMod.
 1. Pobierz instalator [stąd](https://github.com/arpruss/raspberryjammod/releases/download/0.94/RaspberryJamMod-Installer.exe) i rozpocznij instalację.
 
