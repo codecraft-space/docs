@@ -21,6 +21,9 @@
 
 	![](img/rasberry-jam-mod-installer.jpg)
 
+Przykładowe skrypty będą dostępne w `%appdata%\.minecraft\mcpipy`. Aby dostać się do katalogu. Naciśnij skrót `Windows + R` i wpisz `%appdata%\.minecraft\mcpipy`. 
+
+
 ### MacOS
 
 1. Zainstaluj Minecrafta z [tego linka](https://minecraft.net/pl-pl/download/)
