@@ -21,16 +21,6 @@
 
 	![](img/rasberry-jam-mod-installer.jpg)
 
-1. Następnie zainstaluj [Python dla Windows](https://www.python.org/downloads/release/python-365/). Pamiętaj, aby zaznaczyć "Dodaj python.exe do ścieżki".
-
-	![](img/python-installer.jpg)
-
-1. Naciśnij skrót `Windows + R` i wpisz `%appdata%\.minecraft`. Przejdziesz dzięki temu do ukrytego folderu `minecraft`. Sprawdź, czy znajduje się tam katalog `mods` oraz `mcpipy`.
-
-1. Do folderu `mcpipy` będziemy kopiować nasze nowe skrypty.
-
-	![](img/mods-mcpipy.jpg)
-
 ### MacOS
 
 1. Zainstaluj Minecrafta z [tego linka](https://minecraft.net/pl-pl/download/)
